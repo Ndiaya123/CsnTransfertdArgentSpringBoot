@@ -1,0 +1,52 @@
+body{
+    background: red;
+}
+.p-identification
+{
+    font-size: 2em;
+    color: #c4bdbd;
+    font-family: "Poppins", sans-serif;
+}
+.div-titre
+{
+    width: 100%;
+    text-align: center;
+}
+.p-titre
+{
+    font-size: 5em;
+    color: green;
+    margin-top: 20px;
+    font-family: 'Playball', cursive;
+}
+.btn-color
+{
+    background: green;
+}
+.a-oublie
+{
+    color: #bfbfbf;
+}
+
+.a-logo
+{
+   font-size: 1.5em;
+    color: black;
+    font-family: "Courier New", Courier, monospace;"
+}
+.p-titre-detail
+{
+    font-size: 3em;
+    color: green;
+    font-family: "Sitka Small";
+}
+.p-erreur
+{
+    font-size: 2em;
+    color: black;
+    font-family: "Sitka Small";
+}
+.p-detail
+{
+    font-size: 2em;
+}
